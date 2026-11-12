@@ -1,3 +1,18 @@
+
+<div align="center">
+  <img src="./logo.png" alt="AVERNYX Technologies" width="240">
+
+  <h1>AVERNYX TECHNOLOGIES</h1>
+
+  <h3>Construimos lo que viene.</h3>
+
+  <p>
+    Software Development • Artificial Intelligence • Digital Innovation
+  </p>
+</div>
+
+---
+
 # AVERNYX TECHNOLOGIES
 
 ### Construimos lo que viene.
