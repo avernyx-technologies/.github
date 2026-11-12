@@ -1,14 +1,11 @@
 
 <div align="center">
-  <img src="./logo.png" alt="AVERNYX Technologies" width="240">
+  <img src="https://raw.githubusercontent.com/avernyx-technologies/.github/main/AVERNYX_logo_GitHub_completo.png" alt="Logo de AVERNYX" width="280">
 
   <h1>AVERNYX TECHNOLOGIES</h1>
-
   <h3>Construimos lo que viene.</h3>
 
-  <p>
-    Software Development • Artificial Intelligence • Digital Innovation
-  </p>
+  <p>Software Development • Artificial Intelligence • Digital Innovation</p>
 </div>
 
 ---
